@@ -1,0 +1,70 @@
+Capsule
+-------
+capsule_serial varchar pk 
+capsule_id varchar
+status varchar
+type varchar
+reuse_count varchar
+water_landings varchar
+land_landings varchar
+
+Launchpad
+---------
+site_id varchar PK
+name varchar
+full_name varchar
+status varchar  
+locality varchar    
+region varchar  
+timezone varchar    
+latitude varchar    
+longitude varchar
+attempted_launches varchar
+successful_launches varchar
+
+Payload
+-------
+payload_id varchar pk
+type varchar    
+reused varchar
+mass_lb varchar
+nationality varchar
+
+Rocket
+------
+rocket_id varchar PK
+name varchar    
+type varchar    
+active varchar  
+country varchar 
+company varchar 
+height_ft varchar   
+diameter_ft varchar 
+mass_lb varchar 
+stages varchar  
+boosters varchar    
+cost_per_launch varchar 
+success_rate varchar
+
+Launches
+--------
+launch_id varchar PK
+mission_name varchar
+launch_year varchar
+date varchar
+success varchar
+failure-reason varchar
+
+Launch_Cap
+----------
+launch_id varchar FK >- Launches.launch_id
+capsule_serial varchar FK >- Capsule.capsule_serial
+launch_id_capsule_serial varchar pk
+
+Bridge
+-------
+launch_id varchar FK >- Launches.launch_id
+rocket_id varchar FK >- Rocket.rocket_id
+site_id varchar FK >- Launchpad.site_id  
+payload_id varchar FK >- Payload.payload_id
+launch_id_rocket_id_site_id_payload_id varchar PK

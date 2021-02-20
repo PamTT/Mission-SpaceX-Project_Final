@@ -1,0 +1,20 @@
+capsule_serial,capsule_id,status,type,reuse_count,water_landings,land_landings
+C101,dragon1,retired,Dragon 1.0,1,1,0
+C102,dragon1,retired,Dragon 1.0,1,1,0
+C103,dragon1,unknown,Dragon 1.0,1,1,0
+C104,dragon1,unknown,Dragon 1.0,1,1,0
+C105,dragon1,unknown,Dragon 1.1,1,1,0
+C106,dragon1,active,Dragon 1.1,3,3,0
+C107,dragon1,unknown,Dragon 1.1,1,1,0
+C108,dragon1,active,Dragon 1.1,3,3,0
+C109,dragon1,destroyed,Dragon 1.1,1,1,0
+C110,dragon1,active,Dragon 1.1,2,2,0
+C111,dragon1,active,Dragon 1.1,2,2,0
+C112,dragon1,active,Dragon 1.1,3,3,0
+C113,dragon1,active,Dragon 1.1,2,2,0
+C201,dragon2,active,Dragon 2.0,1,1,0
+C205,dragon2,active,Dragon 2.0,1,1,0
+C202,dragon2,active,Dragon 2.0,0,0,0
+C203,dragon2,active,Dragon 2.0,0,0,0
+C204,dragon2,active,Dragon 2.0,0,0,0
+C206,dragon2,active,Dragon 2.0,1,1,0

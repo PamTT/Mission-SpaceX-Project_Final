@@ -1,0 +1,5 @@
+rocket_id,name,type,active,country,company,height_ft,diameter_ft,mass_lb,stages,boosters,cost_per_launch,success_rate
+falcon1,Falcon 1,rocket,False,Republic of the Marshall Islands,SpaceX,73.0,5.5,66460,2,0,6700000,40
+falcon9,Falcon 9,rocket,True,United States,SpaceX,229.6,12.0,1207920,2,0,50000000,97
+falconheavy,Falcon Heavy,rocket,True,United States,SpaceX,229.6,39.9,3125735,2,2,90000000,100
+starship,Starship,rocket,False,United States,SpaceX,387.0,30.0,2943000,2,0,7000000,0

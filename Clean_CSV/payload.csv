@@ -1,0 +1,139 @@
+payload_id,type,reused,mass_lb,nationality
+FalconSAT-2,Satellite,False,43.0,United States
+DemoSAT,Satellite,False,0.0,United States
+Trailblazer,Satellite,False,0.0,United States
+PRESat,Satellite,False,0.0,United States
+RatSat,Satellite,False,363.0,United States
+RazakSAT,Satellite,False,440.0,Malaysia
+Dragon Qualification Unit,Dragon Boilerplate,False,0.0,United States
+COTS Demo Flight 1,Dragon 1.0,False,0.0,United States
+Cubesats,Satellite,False,0.0,Unknown
+COTS Demo Flight 2,Dragon 1.0,False,1157.0,United States
+CRS-1,Dragon 1.0,False,881.0,United States
+Orbcomm-OG2,Dragon 1.0,False,881.0,Unknown
+CRS-2,Dragon 1.0,False,1492.0,United States
+CASSIOPE,Satellite,False,1100.0,Canada
+SES-8,Satellite,False,6990.0,Luxembourg
+Thaicom 6,Satellite,False,7330.0,Thailand
+CRS-3,Dragon 1.1,False,5062.0,United States
+Orbcomm-OG2-M1,Satellite,False,2901.0,United States
+AsiaSat 8,Satellite,False,9998.0,Hong Kong
+AsiaSat 6,Satellite,False,9762.0,Hong Kong
+CRS-4,Dragon 1.1,False,4885.0,United States
+CRS-5,Dragon 1.1,False,5280.0,United States
+DSCOVR,Satellite,False,1260.0,United States
+ABS-3A,Satellite,False,4307.0,Hong Kong
+Eutelsat 115 West B,Satellite,False,4861.0,France
+CRS-6,Dragon 1.1,False,4184.0,United States
+TürkmenÄlem 52°E / MonacoSAT,Satellite,False,10377.0,Turkmenistan
+CRS-7,Dragon 1.1,False,5460.9,United States
+Orbcomm-OG2-M2,Satellite,False,4484.0,United States
+Jason-3,Satellite,False,1219.0,United States
+SES-9,Satellite,False,11621.0,Luxembourg
+CRS-8,Dragon 1.1,False,6914.0,United States
+JCSAT-2B,Satellite,False,10353.0,Japan
+Thaicom 8,Satellite,False,6800.0,Thailand
+ABS-2A,Satellite,False,3950.0,Hong Kong
+Eutelsat 117 West B,Satellite,False,3950.0,France
+CRS-9,Dragon 1.1,False,4976.0,United States
+JCSAT-16,Satellite,False,10100.0,Japan
+Amos-6,Satellite,False,12100.0,Israel
+Iridium NEXT 1,Satellite,False,21200.0,United States
+CRS-10,Dragon 1.1,False,5490.0,United States
+EchoStar 23,Satellite,False,12399.0,United States
+SES-10,Satellite,False,11700.0,Luxembourg
+NROL-76,Satellite,False,0.0,United States
+Inmarsat-5 F4,Satellite,False,13380.0,United Kingdom
+CRS-11,Dragon 1.1,True,5970.0,United States
+BulgariaSat-1,Satellite,False,8089.0,Bulgaria
+Iridium NEXT 2,Satellite,False,21164.0,United States
+Intelsat 35e,Satellite,False,14905.45,United States
+CRS-12,Dragon 1.1,False,6415.5,United States
+FormoSat-5,Satellite,False,1047.0,Taiwan
+X-37B OTV-5,Satellite,False,11001.0,United States
+Iridium NEXT 3,Satellite,False,21164.4,United States
+SES-11 / Echostar 105,Satellite,False,11464.0,United States
+KoreaSat 5A,Satellite,False,8157.104,South Korea
+CRS-13,Dragon 1.1,True,4861.2,United States
+Iridium NEXT 4,Satellite,False,21164.38,United States
+ZUMA,Satellite,False,0.0,United States
+GovSat-1,Satellite,False,9325.6,Luxembourg
+Tesla Roadster,Satellite,False,2976.2,United States
+Paz,Satellite,False,2976.2,Spain
+Tintin A & B,Satellite,False,1763.7,United States
+Hispasat 30W-6,Satellite,False,13430.6,Spain
+Iridium NEXT 5,Satellite,False,21164.38,United States
+CRS-14,Dragon 1.1,True,6084.7,United States
+TESS,Satellite,False,772.0,United States
+Bangabandhu-1,Satellite,False,8270.0,Bangladesh
+Iridium NEXT 6,Satellite,False,9479.9,United States
+GRACE-FO 1-2,Satellite,False,2557.4,Unknown
+SES-12,Satellite,False,11869.4,Luxembourg
+CRS-15,Dragon 1.1,True,5313.0,United States
+Telstar 19V,Satellite,False,15600.0,Canada
+Iridium NEXT 7,Satellite,False,21164.38,United States
+Telkom-4,Satellite,False,12786.81,Indonesia
+Telstar 18V,Satellite,False,15564.64,Canada
+SAOCOM 1A,Satellite,False,6172.94,Argentina
+Es’hail 2,Satellite,False,6613.868,Qatar
+SSO-A,Satellite,False,8818.49,United States
+CRS-16,Dragon 1.1,True,5672.494000000001,United States
+GPS III SV01,Satellite,False,9700.34,United States
+Iridium NEXT 8,Satellite,False,21164.38,United States
+Nusantara Satu (PSN-6),Satellite,False,11023.11,Indonesia
+S5,Satellite,False,132.28,United States
+Beresheet,Lander,False,1289.7,Israel
+CCtCap Demo Mission 1,Crew Dragon,False,27026.47,United States
+ArabSat 6A,Satellite,False,13227.74,Saudi Arabia
+CRS-17,Dragon 1.1,True,5472.0,United States
+Starlink v0.9,Satellite,False,30027.0,United States
+RADARSAT Constellation,Satellite,False,3141.59,Canada
+DSX,Satellite,False,1322.77,United States
+COSMIC-2,Satellite,False,3677.3,United States
+GPIM,Satellite,False,396.0,United States
+Oculus-ASR,Satellite,False,154.0,United States
+OTB 1,Satellite,False,304.0,United States
+NPSAT 1,Satellite,False,189.0,United States
+Prox-1,Satellite,False,156.0,United States
+LightSail-B,Satellite,False,11.0,United States
+ARMADILLO,Satellite,False,8.8,United States
+FalconSat 7,Satellite,False,11.0,United States
+E-TBEx A & B,Satellite,False,8.8,United States
+PSat 2,Satellite,False,4.4,United States
+BRICSat 2,Satellite,False,2.2,United States
+TEPCE 1 & 2,Satellite,False,3.3,United States
+CP9,Satellite,False,3.3,United States
+StangSat,Satellite,False,2.2,United States
+CRS-18,Dragon 1.1,True,4911.2,United States
+Amos-17,Satellite,False,14330.05,Israel
+Starlink 1,Satellite,False,34392.1,United States
+CRS-19,Dragon 1.1,True,11023.0,United States
+JCSat 18 / Kacific 1,Satellite,False,14991.43,Japan
+Starlink 2,Satellite,False,33951.2,United States
+Crew Dragon In Flight Abort Test,Crew Dragon,False,0.0,United States
+Starlink 3,Satellite,False,34392.113,United States
+Starlink 4,Satellite,False,33951.2,United States
+CRS-20,Dragon 1.1,True,4358.539000000001,United States
+Starlink 5,Satellite,False,34392.113,United States
+Starlink 6,Satellite,False,33951.2,United States
+Starlink 7,Satellite,False,33951.2,United States
+CCtCap Demo Mission 2,Crew Dragon,False,20999.03,United States
+Starlink 8,Satellite,False,33951.2,United States
+SAOCOM 1B,Satellite,False,3527.3959999999997,Argentina
+ANASIS-II,Satellite,False,0.0,South Korea
+GPS III SV03 (Columbus),Satellite,False,8553.94,United States
+SXM-7,Satellite,False,0.0,United States
+GPS III SV04 (Sacagawea),Satellite,False,8115.215999999999,United States
+Crew-1,Crew Dragon,False,0.0,United States
+GPS III SV05,Satellite,False,0.0,Unknown
+CRS-21,Dragon 1.1,True,0.0,United States
+Turksat 5A,Satellite,False,0.0,Unknown
+Starlink-9,Satellite,False,33245.7,United States
+Starlink 10,Satellite,False,33951.2,Unknown
+Sentinel-6 Michael Freilich,Satellite,False,3174.657,United States
+BlackSky Global 5-6,Satellite,False,246.92,United States
+Starlink-11,Satellite,False,33951.2,United States
+Starlink-12,Satellite,False,33951.2,United States
+Starlink-13,Satellite,False,33951.2,United States
+Starlink-14,Satellite,False,33951.2,United States
+NROL-108,Satellite,False,0.0,Unknown

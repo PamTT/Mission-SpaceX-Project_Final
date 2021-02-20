@@ -1,0 +1,130 @@
+launch_id,rocket_id,site_id,payload_id
+1,falcon1,kwajalein_atoll,FalconSAT-2
+2,falcon1,kwajalein_atoll,DemoSAT
+3,falcon1,kwajalein_atoll,Trailblazer
+3,falcon1,kwajalein_atoll,PRESat
+4,falcon1,kwajalein_atoll,RatSat
+5,falcon1,kwajalein_atoll,RazakSAT
+6,falcon9,ccafs_slc_40,Dragon Qualification Unit
+7,falcon9,ccafs_slc_40,COTS Demo Flight 1
+7,falcon9,ccafs_slc_40,Cubesats
+8,falcon9,ccafs_slc_40,COTS Demo Flight 2
+9,falcon9,ccafs_slc_40,CRS-1
+9,falcon9,ccafs_slc_40,Orbcomm-OG2
+10,falcon9,ccafs_slc_40,CRS-2
+11,falcon9,vafb_slc_4e,CASSIOPE
+12,falcon9,ccafs_slc_40,SES-8
+13,falcon9,ccafs_slc_40,Thaicom 6
+14,falcon9,ccafs_slc_40,CRS-3
+15,falcon9,ccafs_slc_40,Orbcomm-OG2-M1
+16,falcon9,ccafs_slc_40,AsiaSat 8
+17,falcon9,ccafs_slc_40,AsiaSat 6
+18,falcon9,ccafs_slc_40,CRS-4
+19,falcon9,ccafs_slc_40,CRS-5
+20,falcon9,ccafs_slc_40,DSCOVR
+21,falcon9,ccafs_slc_40,ABS-3A
+21,falcon9,ccafs_slc_40,Eutelsat 115 West B
+22,falcon9,ccafs_slc_40,CRS-6
+23,falcon9,ccafs_slc_40,TürkmenÄlem 52°E / MonacoSAT
+24,falcon9,ccafs_slc_40,CRS-7
+25,falcon9,ccafs_slc_40,Orbcomm-OG2-M2
+26,falcon9,vafb_slc_4e,Jason-3
+27,falcon9,ccafs_slc_40,SES-9
+28,falcon9,ccafs_slc_40,CRS-8
+29,falcon9,ccafs_slc_40,JCSAT-2B
+30,falcon9,ccafs_slc_40,Thaicom 8
+31,falcon9,ccafs_slc_40,ABS-2A
+31,falcon9,ccafs_slc_40,Eutelsat 117 West B
+32,falcon9,ccafs_slc_40,CRS-9
+33,falcon9,ccafs_slc_40,JCSAT-16
+34,falcon9,ccafs_slc_40,Amos-6
+35,falcon9,vafb_slc_4e,Iridium NEXT 1
+36,falcon9,ksc_lc_39a,CRS-10
+37,falcon9,ksc_lc_39a,EchoStar 23
+38,falcon9,ksc_lc_39a,SES-10
+39,falcon9,ksc_lc_39a,NROL-76
+40,falcon9,ksc_lc_39a,Inmarsat-5 F4
+41,falcon9,ksc_lc_39a,CRS-11
+42,falcon9,ksc_lc_39a,BulgariaSat-1
+43,falcon9,vafb_slc_4e,Iridium NEXT 2
+44,falcon9,ksc_lc_39a,Intelsat 35e
+45,falcon9,ksc_lc_39a,CRS-12
+46,falcon9,vafb_slc_4e,FormoSat-5
+47,falcon9,ksc_lc_39a,X-37B OTV-5
+48,falcon9,vafb_slc_4e,Iridium NEXT 3
+49,falcon9,ksc_lc_39a,SES-11 / Echostar 105
+50,falcon9,ksc_lc_39a,KoreaSat 5A
+51,falcon9,ccafs_slc_40,CRS-13
+52,falcon9,vafb_slc_4e,Iridium NEXT 4
+53,falcon9,ccafs_slc_40,ZUMA
+54,falcon9,ccafs_slc_40,GovSat-1
+55,falconheavy,ksc_lc_39a,Tesla Roadster
+56,falcon9,vafb_slc_4e,Paz
+56,falcon9,vafb_slc_4e,Tintin A & B
+57,falcon9,ccafs_slc_40,Hispasat 30W-6
+58,falcon9,vafb_slc_4e,Iridium NEXT 5
+59,falcon9,ccafs_slc_40,CRS-14
+60,falcon9,ccafs_slc_40,TESS
+61,falcon9,ksc_lc_39a,Bangabandhu-1
+62,falcon9,vafb_slc_4e,Iridium NEXT 6
+62,falcon9,vafb_slc_4e,GRACE-FO 1-2
+63,falcon9,ccafs_slc_40,SES-12
+64,falcon9,ccafs_slc_40,CRS-15
+65,falcon9,ccafs_slc_40,Telstar 19V
+66,falcon9,vafb_slc_4e,Iridium NEXT 7
+67,falcon9,ccafs_slc_40,Telkom-4
+68,falcon9,ccafs_slc_40,Telstar 18V
+69,falcon9,vafb_slc_4e,SAOCOM 1A
+70,falcon9,ksc_lc_39a,Es’hail 2
+71,falcon9,vafb_slc_4e,SSO-A
+72,falcon9,ccafs_slc_40,CRS-16
+73,falcon9,ccafs_slc_40,GPS III SV01
+74,falcon9,vafb_slc_4e,Iridium NEXT 8
+75,falcon9,ccafs_slc_40,Nusantara Satu (PSN-6)
+75,falcon9,ccafs_slc_40,S5
+75,falcon9,ccafs_slc_40,Beresheet
+76,falcon9,ksc_lc_39a,CCtCap Demo Mission 1
+77,falconheavy,ksc_lc_39a,ArabSat 6A
+78,falcon9,ccafs_slc_40,CRS-17
+79,falcon9,ccafs_slc_40,Starlink v0.9
+80,falcon9,vafb_slc_4e,RADARSAT Constellation
+81,falconheavy,ksc_lc_39a,DSX
+81,falconheavy,ksc_lc_39a,COSMIC-2
+81,falconheavy,ksc_lc_39a,GPIM
+81,falconheavy,ksc_lc_39a,Oculus-ASR
+81,falconheavy,ksc_lc_39a,OTB 1
+81,falconheavy,ksc_lc_39a,NPSAT 1
+81,falconheavy,ksc_lc_39a,Prox-1
+81,falconheavy,ksc_lc_39a,LightSail-B
+81,falconheavy,ksc_lc_39a,ARMADILLO
+81,falconheavy,ksc_lc_39a,FalconSat 7
+81,falconheavy,ksc_lc_39a,E-TBEx A & B
+81,falconheavy,ksc_lc_39a,PSat 2
+81,falconheavy,ksc_lc_39a,BRICSat 2
+81,falconheavy,ksc_lc_39a,TEPCE 1 & 2
+81,falconheavy,ksc_lc_39a,CP9
+81,falconheavy,ksc_lc_39a,StangSat
+82,falcon9,ccafs_slc_40,CRS-18
+83,falcon9,ccafs_slc_40,Amos-17
+84,falcon9,ccafs_slc_40,Starlink 1
+85,falcon9,ccafs_slc_40,CRS-19
+86,falcon9,ccafs_slc_40,JCSat 18 / Kacific 1
+87,falcon9,ccafs_slc_40,Starlink 2
+88,falcon9,ksc_lc_39a,Crew Dragon In Flight Abort Test
+89,falcon9,ccafs_slc_40,Starlink 3
+90,falcon9,ccafs_slc_40,Starlink 4
+91,falcon9,ccafs_slc_40,CRS-20
+92,falcon9,ksc_lc_39a,Starlink 5
+93,falcon9,ksc_lc_39a,Starlink 6
+94,falcon9,ksc_lc_39a,CCtCap Demo Mission 2
+95,falcon9,ccafs_slc_40,Starlink 7
+96,falcon9,ccafs_slc_40,Starlink 8
+97,falcon9,ccafs_slc_40,GPS III SV03 (Columbus)
+98,falcon9,ccafs_slc_40,ANASIS-II
+99,falcon9,ksc_lc_39a,Starlink-9
+99,falcon9,ksc_lc_39a,BlackSky Global 5-6
+100,falcon9,ccafs_slc_40,Starlink-10
+101,falcon9,ccafs_slc_40,SAOCOM 1B
+102,falcon9,ksc_lc_39a,Starlink-11
+103,falcon9,ksc_lc_39a,Starlink-12
+104,falcon9,ksc_lc_39a,Starlink-13
